@@ -11,6 +11,12 @@ langchainhub = "*"
 python-dotenv = "*"
 llama-index = "*"
 llama-index-llms-azure-openai = "*"
+langchain-tavily = "*"
+tweepy = "*"
+flask = "*"
+langchain-pinecone = "*"
+pypdf = "*"
+faiss-cpu = "*"
 
 [dev-packages]
 
